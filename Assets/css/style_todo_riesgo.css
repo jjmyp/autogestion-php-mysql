@@ -1,0 +1,608 @@
+body {
+    line-height: 18px;
+}
+
+#li_soat {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.cardInfo {
+    text-align: left !important;
+}
+
+.conten-ayuda {
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 0.5em;
+    background-color: #fff;
+}
+
+
+
+
+#li_soat2 {
+    background-color: white;
+    border: 1px solid #67B5FB;
+    margin-bottom: 20px;
+}
+
+
+.clasModeloVeh {
+    font-weight: 400;
+}
+
+::placeholder {
+    color: black !important;
+}
+
+
+
+.segga-solicitar {
+    background-color: #fff;
+    border: 1px solid #B785F8;
+    border-radius: 1.3em 1.3em 1.3em 1.3em;
+}
+
+.img_slider_derecho_header {
+    width: 280px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.img_cotizador {
+    border-radius: 1.3em 1.3em 0em 0em;
+}
+
+.form_cotizador {
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 0em 0em 1.3em 1.3em;
+}
+
+.btn_cotizador {
+    width: 30%;
+    border-radius: 2.5em;
+    font-weight: 600;
+    height: 50px;
+    background-color: #B785F8;
+    color: white;
+    height: 37px;
+}
+
+.inputVacio {
+    border: 3px solid rgb(94, 219, 241) !important;
+}
+
+.div_conocesPlaca {
+    text-align: right !important;
+}
+
+.classNumPlaca {    
+    width:65%;
+}
+
+.div_esCeroKM {
+    text-align: left !important;
+}
+
+.sin-placa {
+    font-size: 17px;
+    color: #B785F8;
+    font-weight: 500;
+}
+
+.btn-circle-cotizador {
+    width: 28px;
+    height: 28px;
+    padding: 2px 0px 0px 3px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.42857;
+    background-color: #B785F8;
+    color: white;
+}
+
+.img-slide {
+    height: 270px;
+}
+
+.contenido-slide {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 40px 20px 0px 20px;
+}
+
+.btn-solicitar-slide {
+    height: 40px;
+    font-weight: 800;
+    border-radius: 2.5em;
+    color: #5967BF;
+    border-color: #5967BF;
+    background-color: white;
+}
+
+.sombreado_span {
+    color: #B785F8;
+}
+
+.div_terminosycondiciones {
+    text-align: center;
+    padding-top: 4px;
+}
+
+.a_direccion {
+    text-decoration: none;
+}
+
+.div_terminosycondiciones {
+    text-align: center;
+    /* padding-right: 0; */
+    padding-top: 4px;
+}
+
+.custom-control-indicator {
+    border: 2px solid rgb(146, 142, 141);
+}
+
+.conten_resumen {
+    padding-top: 135px !important;
+}
+
+.card_resumen {
+    height: auto;
+    padding: 0;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    border-radius: 0.5em;
+}
+
+.card_resumen_movil {
+    height: auto;
+    padding: 0;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    border-radius: 0.5em;
+}
+
+.card-viajes, .card-soat {
+    height: auto;
+}
+
+.img_segga_form {
+    padding: 0;
+    background-image: url("../img/TODORIESGO/COTIZADOR/Banner-Cotizador-Todo-Riesgo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1.3em 1.3em 0em 0em;
+    height: 450px !important;
+}
+
+.div_footer_asesor_segga {
+    font-size: 16px;
+    height: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.btn_solicitar2 {
+    width: 45%;
+    border-radius: 2.5em;
+    font-weight: 400;
+    height: 29px;
+    background-color: #B785F8;
+    color: white;
+    /* margin: 4% 5% 5% 32%; */
+    padding: 1%;
+}
+
+.card-ofertas {
+    margin: 7% 0% 7% 0%;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    border-radius: 0.5em;
+}
+
+.card-ofertas2 {
+    margin: 1% 0% 1% 0%;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.44);
+    border-radius: 0.5em;
+}
+
+.card-text {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1em;
+}
+
+.card_form {
+    height: auto;
+    padding: 0% 0% 0% 2%;
+    background-color: transparent;
+}
+
+.row.gap-y>.col, .row.gap-y>[class*="col-"] {
+    padding-top: 0px;
+}
+
+.card_txt {
+    margin-top: 0%;
+}
+
+.div_izq_info_produc {
+    padding-top: 3%;
+}
+
+.btn_cotizar {
+    width: 100% !important;
+}
+
+.div_boton_producto {
+    text-align: left;
+}
+
+
+
+/* ESTILOS COTIZADOR TODO RIESGO */
+
+.btn_cotizador-form {
+    width: 40%;
+    border-radius: 2.5em;
+    font-weight: 600;
+    height: 37px;
+    background-color: #00ADEF;
+    color: white;
+    margin: 5% 0% 5% 0%;
+}
+
+.img_card_producto {
+    height: 184.66px;
+}
+
+/* Css para modificar la tabla del cotizador */
+.table tbody th {
+    border-top: unset;
+}
+
+.table td,
+.table th {
+    padding: 0.55rem;
+}
+
+/* Para los terminos y condiciones */
+.terminos {
+    font-size: 10px;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    line-height: normal;
+    letter-spacing: 0;
+    text-align: justify;
+}
+
+.titulo_terminos,
+.titulo_table {
+    font-weight: 500;
+}
+
+.img-resumen-compra {
+    background-image: url(../../assets/img/TODORIESGO/COTIZADOR/BannerpcotizadorTR.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0.5em 0.5em 0em 0em;
+    height: 108px !important;
+}
+
+.btn_solicitar {
+    width: 80%;
+    height: 35px;
+    padding: 3%;
+    font-weight: 500;
+    margin: 5% 5% 5% 32%;
+    border-radius: 2.5em;
+    color: #B785F8;
+    border-color: #B785F8;
+    background-color: white;
+}
+
+.btn-solicitar-resumen {
+    width: 100%;
+    height: 40px;
+    font-weight: 800;
+    border-radius: 2.5em;
+    color: #B785F8;
+    border-color: #B785F8;
+    background-color: white;
+}
+
+.div_promo {
+    padding: 0;
+    margin: 3% 0% 1% 0%;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    color: #B1B1B1;
+}
+
+.space label {
+    margin-bottom: 0rem;
+}
+
+.btn-next, .btn-previous {
+    width: 23%;
+    border-radius: 2.5em;
+    font-weight: 500;
+    height: 40px;
+    background-color: #B785F8;
+    color: white;
+    margin: 0% 0% 0% 1%
+}
+
+.btn-cotizar {
+    width: 100%;
+    height: 40px;
+    font-weight: 500;
+    margin: 3% 0% 3% 2%;
+    border-radius: 2.5em;
+    border-radius: 2.5em;
+    color: white;
+    background-color: #B785F8;
+}
+
+.btn-previous2 {
+    width: 100%;
+    height: 38px;
+    font-weight: 500;
+    margin: 3% 0% 3% 2%;
+    color: #B785F8;
+    border-color: #B785F8;
+    background-color: #F6F6F6;
+}
+
+.planes-precio {
+    padding-top: 10px;
+}
+
+.img-logo-card {
+    padding-top: 0px;
+    margin-bottom: 0rem !important;
+}
+
+.titulo-Precio {
+    margin-bottom: 0rem !important;
+}
+
+.conten-btn-oferta {
+    padding-top: 30px;
+    margin-bottom: 0rem !important;
+}
+
+.accordion .accordion-oferta {
+    font-size: 12px !important;
+    letter-spacing: 0px !important;
+    padding: 0px 0px !important;
+    letter-spacing: 0px !important;
+}
+
+.accordion .card-title a {
+    letter-spacing: 0.5px !important;
+}
+
+.accordion .accordion-oferta a {
+    padding-left: 0px !important;
+}
+
+.accordion .accordion-oferta a::before {
+    margin-left: 0px !important;
+}
+
+.accordion-info {
+    padding: 2px 0px 10px 30px !important;
+}
+
+.btn-recotizar{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    height: 30px;
+    margin: 0px 2px 0px 2px;
+    border-radius: 2.5em;
+    background-color: rgb(218, 51, 51);
+}
+
+.conten-recotizar {
+    padding: 10px 0px 8px 0px;
+    -webkit-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.44);
+    border-radius: 0.5em;
+}
+
+.btn-elegir-oferta {
+    width: 100%;
+    border-radius: 2.5em;
+    font-weight: 500;
+    height: 35px;
+    background-color: #B785F8;
+    color: white;
+    padding-top: 9px;
+}
+
+.fieldset4 {
+    display: none;
+    visibility: hidden;
+}
+
+.conten-img {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.imgFinal {
+    width: 80px;
+}
+
+.conten-texto {
+    text-align: center;
+}
+.spanTitle {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 0;
+    line-height: normal;
+    letter-spacing: 0;
+    font-weight: 400;
+    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    font-size: 15px;
+    -webkit-box-flex: 0;
+}
+
+.btn-newCotizador {
+    /* width: 40%; */
+    height: 37px;
+    margin-top: 20px;
+    font-weight: 600;
+    color: white;
+    border-radius: 2.5em;
+    border-color: #B785F8;
+    background-color: #B785F8;
+}
+
+.imgLoader {
+    display: none;
+    visibility: hidden;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    opacity: .8;
+    background-size: 100px 100px !important;
+    background: url(../../assets/img/TODORIESGO/COTIZADOR/loader-update.gif) 50% 50% no-repeat rgba(249, 249, 249, 0.822);
+
+}
+
+
+
+@media only screen and (min-width: 768px) {
+
+    .muneca_segga_movil, .card_resumen_movil {
+        display: none !important;
+    }
+        
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 736px) {
+
+    .muneca_segga, .card_resumen {
+        display: none !important;
+    }
+
+    .conten_resumen {
+        display: none;
+        padding-top: 0px !important;
+    }
+
+    .btn-next, .btn-previous {
+        width: 100%;
+        margin: 2% 0% 2% 0%;
+    }
+
+    .slide-segga {
+        height: 220px;
+    }
+
+    .div_izq_info_produc {
+        padding-top: 9%;
+    }
+
+    .planes-precio {
+        text-align: center;
+        padding-top: 0px;
+    }
+    .conten-btn-oferta {
+        padding-top: 20px;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .img-logo-card {
+        padding-top: 0px;
+        margin-bottom: 0.5rem !important;
+    }
+    .titulo-Precio {
+        margin-bottom: 1.5rem !important;
+    }
+
+    .card-ofertas2 {
+        margin: 7% 0% 7% 0%;
+    }
+
+    .div_conocesPlaca, .div_esCeroKM {
+        text-align: center !important;
+    }
+
+    .classNumPlaca {    
+        width:100%;
+    }
+
+    .terminos_movil {
+        font-size: 10.6px !important;
+    }
+    
+    .btn_cotizador {
+        width: 100% !important;
+    }
+
+    .div_vista {
+        display: none;
+    }
+
+    .card_form {
+        margin-bottom: 3rem;
+    }
+    
+    .f1-step p {
+        font-size: 11px !important;
+    }
+
+}
+
+
+/* Estilos de la lista de Deducibles - Card Ofertas*/
+.list-group {
+    padding-left: 0;
+    margin: 15px 0px;
+}
+
+.list-group-item {
+    padding: 5px 5px;
+    margin-bottom: -5px;
+    border: 0px solid #ddd;
+}
+
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1;
+    color: #000000;
+    text-align: left !important;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
